@@ -1,0 +1,35 @@
+<Empresas>
+  <Empresa>
+    <nombre>ABC</nombre>
+    <Agente>
+      <nombre>Manolo</nombre>
+      <apellido>Martinez</apellido>
+    </Agente>
+    <Agente>
+      <nombre>Lucia</nombre>
+      <apellido>Lopez</apellido>
+    </Agente>
+  </Empresa>
+  <Empresa>
+    <nombre>DEF</nombre>
+    <Agente>
+      <nombre>Felipe</nombre>
+      <apellido>Fernández</apellido>
+    </Agente>
+  </Empresa>
+  <Empresa>
+    <nombre>GHI</nombre>
+    <Agente>
+      <nombre>Jose</nombre>
+      <apellido>JJJ</apellido>
+    </Agente>
+    <Agente>
+      <nombre>Ana</nombre>
+      <apellido>AAA</apellido>
+    </Agente>
+    <Agente>
+      <nombre>pedro</nombre>
+      <apellido>perez</apellido>
+    </Agente>
+  </Empresa>
+</Empresas>

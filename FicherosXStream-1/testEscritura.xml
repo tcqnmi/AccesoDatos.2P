@@ -1,0 +1,17 @@
+<personajes>
+  <personaje name="Tony">
+    <apellido>Stark</apellido>
+    <fecha>5501</fecha>
+    <dni>711117A</dni>
+  </personaje>
+  <personaje name="Wanda">
+    <apellido>Maximoff</apellido>
+    <fecha>4444</fecha>
+    <dni>6553372B</dni>
+  </personaje>
+  <personaje name="Prueba">
+    <apellido>Persona</apellido>
+    <fecha>6666</fecha>
+    <dni>0000000C</dni>
+  </personaje>
+</personajes>

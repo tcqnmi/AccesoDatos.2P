@@ -1,0 +1,27 @@
+<empresas>
+    <empresa>
+		<nombre>FMI</nombre>
+		<agente>
+        	<nombre>Ethan</nombre>
+        	<apellido>Hunt</apellido>
+		</agente>
+		<agente>
+        	<nombre>Ilsa</nombre>
+        	<apellido>Faust</apellido>
+		</agente>
+    </empresa>
+    <empresa>
+		<nombre>Continental</nombre>
+		<agente>
+        	<nombre>John</nombre>
+        	<apellido>Wick</apellido>
+		</agente>
+    </empresa>
+    <empresa>
+		<nombre>Treadstone</nombre>
+		<agente>
+        	<nombre>Jason</nombre>
+        	<apellido>Bourne</apellido>
+		</agente>
+    </empresa>
+</empresas>

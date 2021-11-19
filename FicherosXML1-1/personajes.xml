@@ -1,0 +1,17 @@
+<personas>
+    <persona id="001">
+	
+        <nombre>Ethan</nombre>
+        <apellido>Hunk</apellido>
+    </persona>
+    <persona id="002">
+	
+        <nombre>John</nombre>
+        <apellido>Wick</apellido>
+    </persona>
+    <persona id="003">
+
+        <nombre>Jason</nombre>
+        <apellido>Bourne</apellido>
+    </persona>
+</personas>
