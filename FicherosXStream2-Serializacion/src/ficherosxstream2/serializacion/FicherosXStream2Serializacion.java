@@ -53,11 +53,17 @@ public class FicherosXStream2Serializacion {
             case 1:
                 System.out.println("¿Qué empresa buscas?");
                 String busq = teclado.nextLine();
+                boolean empEncontrada = false;
                 
                 for (int i = 0; i <listaLectura.getLista().size(); i++) {
                     if(busq.equalsIgnoreCase(listaLectura.getLista().get(i).getNombre())){
-                        listaLectura.getLista().get(i).mostarAgentes();                    
+                        listaLectura.getLista().get(i).mostarAgentes();   
+                        empEncontrada= true;
+                        break;
                     }
+                }
+                if(!empEncontrada){
+                    System.out.println("Empresa no encontrada");
                 }
                 
                 break;
@@ -65,24 +71,32 @@ public class FicherosXStream2Serializacion {
             case 2:
                 System.out.println("¿A qué empresa deseas añadirlo?");
                 busq = teclado.nextLine();
-                
-                System.out.println("Nombre del agente: ");
-                String nom = teclado.nextLine();
-                
-                System.out.println("Apellido del agente: ");
-                String apel = teclado.nextLine();
-                Agente a1 = new Agente(nom,apel);
+                empEncontrada = false;
                 
                 for (int i = 0; i <listaLectura.getLista().size(); i++) {
                     if(busq.equalsIgnoreCase(listaLectura.getLista().get(i).getNombre())){
+                        
+                        empEncontrada = true; 
+                        
+                        System.out.println("Nombre del agente: ");
+                        String nom = teclado.nextLine();
+                
+                        System.out.println("Apellido del agente: ");
+                        String apel = teclado.nextLine();
+                        Agente a1 = new Agente(nom,apel);
+                        
                         try {
                             listaLectura.getLista().get(i).addAgente(a1);
                             xStream.toXML(listaLectura, new FileOutputStream("empresa.xml"));
                         } catch (FileNotFoundException ex) {
                             Logger.getLogger(FicherosXStream2Serializacion.class.getName()).log(Level.SEVERE, null, ex);
                         }
+                        break;
                     }
-                }     
+                }
+                if(!empEncontrada){
+                    System.out.println("Empresa no encontrada");
+                }
         
         }
         

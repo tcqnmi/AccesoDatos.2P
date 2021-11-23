@@ -9,6 +9,10 @@
       <nombre>Lucia</nombre>
       <apellido>Lopez</apellido>
     </Agente>
+    <Agente>
+      <nombre>luis</nombre>
+      <apellido>llombera</apellido>
+    </Agente>
   </Empresa>
   <Empresa>
     <nombre>DEF</nombre>
