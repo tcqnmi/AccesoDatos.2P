@@ -1,0 +1,1682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <games>
+      <element>
+         <BannerUrl>https://cdn.shopify.com/s/files/1/0942/1228/products/HRlJRkW_0a43b4f7-1dc1-4edf-876c-64b8fc5f1046.jpeg?v=1438739135</BannerUrl>
+         <abbreviation>Smash 64</abbreviation>
+         <characters>
+            <element>
+               <Name>Mario</Name>
+            </element>
+            <element>
+               <Name>Donkey Kong</Name>
+            </element>
+            <element>
+               <Name>Link</Name>
+            </element>
+            <element>
+               <Name>Samus</Name>
+            </element>
+            <element>
+               <Name>Yoshi</Name>
+            </element>
+            <element>
+               <Name>Kirby</Name>
+            </element>
+            <element>
+               <Name>Fox</Name>
+            </element>
+            <element>
+               <Name>Pikachu</Name>
+            </element>
+            <element>
+               <Name>Jigglypuff</Name>
+            </element>
+            <element>
+               <Name>Captain Falcon</Name>
+            </element>
+            <element>
+               <Name>Ness</Name>
+            </element>
+            <element>
+               <Name>Luigi</Name>
+            </element>
+         </characters>
+         <name>Super Smash Bros. 64</name>
+         <stages>
+            <element>
+               <Name>Peach's Castle</Name>
+            </element>
+            <element>
+               <Name>Congo Jungle</Name>
+            </element>
+            <element>
+               <Name>Hyrule Castle</Name>
+            </element>
+            <element>
+               <Name>Planet Zebes</Name>
+            </element>
+            <element>
+               <Name>Mushroom Kingdom</Name>
+            </element>
+            <element>
+               <Name>Yoshi's Island</Name>
+            </element>
+            <element>
+               <Name>Dream Land</Name>
+            </element>
+            <element>
+               <Name>Sector Z</Name>
+            </element>
+            <element>
+               <Name>Saffron City</Name>
+            </element>
+         </stages>
+      </element>
+      <element>
+         <BannerUrl>https://i.ytimg.com/vi/9MX2FpWilTI/maxresdefault.jpg</BannerUrl>
+         <abbreviation>Melee</abbreviation>
+         <characters>
+            <element>
+               <Name>Mario</Name>
+            </element>
+            <element>
+               <Name>Pikachu</Name>
+            </element>
+            <element>
+               <Name>Link</Name>
+            </element>
+            <element>
+               <Name>Princess Zelda</Name>
+            </element>
+            <element>
+               <Name>Princess Peach</Name>
+            </element>
+            <element>
+               <Name>Bowser</Name>
+            </element>
+            <element>
+               <Name>Donkey Kong</Name>
+            </element>
+            <element>
+               <Name>Captain Falcon</Name>
+            </element>
+            <element>
+               <Name>Ness</Name>
+            </element>
+            <element>
+               <Name>Fox</Name>
+            </element>
+            <element>
+               <Name>Ice Climbers</Name>
+            </element>
+            <element>
+               <Name>Kirby</Name>
+            </element>
+            <element>
+               <Name>Yoshi</Name>
+            </element>
+            <element>
+               <Name>Samus</Name>
+            </element>
+            <element>
+               <Name>Luigi</Name>
+            </element>
+            <element>
+               <Name>Jigglypuff</Name>
+            </element>
+            <element>
+               <Name>Dr. Mario</Name>
+            </element>
+            <element>
+               <Name>Ganondorf</Name>
+            </element>
+            <element>
+               <Name>Mewtwo</Name>
+            </element>
+            <element>
+               <Name>Falco</Name>
+            </element>
+            <element>
+               <Name>Mr. Game &amp; Watch</Name>
+            </element>
+            <element>
+               <Name>Young Link</Name>
+            </element>
+            <element>
+               <Name>Pichu</Name>
+            </element>
+            <element>
+               <Name>Marth</Name>
+            </element>
+            <element>
+               <Name>Roy</Name>
+            </element>
+         </characters>
+         <name>Super Smash Bros. Melee</name>
+         <stages>
+            <element>
+               <Name>Kingdom</Name>
+            </element>
+            <element>
+               <Name>Princess Peach’s Castle</Name>
+            </element>
+            <element>
+               <Name>Rainbow Cruise</Name>
+            </element>
+            <element>
+               <Name>Kongo Jungle</Name>
+            </element>
+            <element>
+               <Name>Jungle Japes</Name>
+            </element>
+            <element>
+               <Name>Great Bay</Name>
+            </element>
+            <element>
+               <Name>Temple</Name>
+            </element>
+            <element>
+               <Name>Brinstar</Name>
+            </element>
+            <element>
+               <Name>Yoshi’s Island</Name>
+            </element>
+            <element>
+               <Name>Yoshi’s Story</Name>
+            </element>
+            <element>
+               <Name>Fountain of Dreams</Name>
+            </element>
+            <element>
+               <Name>Green Greens</Name>
+            </element>
+            <element>
+               <Name>Corneria</Name>
+            </element>
+            <element>
+               <Name>Venom</Name>
+            </element>
+            <element>
+               <Name>Pokémon Stadium</Name>
+            </element>
+            <element>
+               <Name>Mute City</Name>
+            </element>
+            <element>
+               <Name>Onett</Name>
+            </element>
+            <element>
+               <Name>Icicle Mountain</Name>
+            </element>
+            <element>
+               <Name>Battlefield</Name>
+            </element>
+            <element>
+               <Name>Final Destination</Name>
+            </element>
+            <element>
+               <Name>Kingdom II</Name>
+            </element>
+            <element>
+               <Name>Kongo Jungle</Name>
+            </element>
+            <element>
+               <Name>Brinstar Depths</Name>
+            </element>
+            <element>
+               <Name>Yoshi’s Island</Name>
+            </element>
+            <element>
+               <Name>Dream Land</Name>
+            </element>
+            <element>
+               <Name>Poké Floats</Name>
+            </element>
+            <element>
+               <Name>Big Blue</Name>
+            </element>
+            <element>
+               <Name>Fourside</Name>
+            </element>
+            <element>
+               <Name>Flat Zone</Name>
+            </element>
+         </stages>
+      </element>
+      <element>
+         <BannerUrl>https://www.dualshockers.com/wp-content/uploads/2013/09/Super-Smash-Bros.-Brawl.jpeg</BannerUrl>
+         <abbreviation>Brawl</abbreviation>
+         <characters>
+            <element>
+               <Name>Mario</Name>
+            </element>
+            <element>
+               <Name>Link</Name>
+            </element>
+            <element>
+               <Name>Kirby</Name>
+            </element>
+            <element>
+               <Name>Pikachu</Name>
+            </element>
+            <element>
+               <Name>Fox</Name>
+            </element>
+            <element>
+               <Name>Zero Suit Samus</Name>
+            </element>
+            <element>
+               <Name>Samus</Name>
+            </element>
+            <element>
+               <Name>Zelda</Name>
+            </element>
+            <element>
+               <Name>Sheik</Name>
+            </element>
+            <element>
+               <Name>Bowser</Name>
+            </element>
+            <element>
+               <Name>Donkey Kong</Name>
+            </element>
+            <element>
+               <Name>Yoshi</Name>
+            </element>
+            <element>
+               <Name>Princess Peach</Name>
+            </element>
+            <element>
+               <Name>Ice Climbers</Name>
+            </element>
+            <element>
+               <Name>Pit</Name>
+            </element>
+            <element>
+               <Name>Wario</Name>
+            </element>
+            <element>
+               <Name>Ike</Name>
+            </element>
+            <element>
+               <Name>Pokémon Trainer</Name>
+            </element>
+            <element>
+               <Name>Diddy Kong</Name>
+            </element>
+            <element>
+               <Name>Meta Knight</Name>
+            </element>
+            <element>
+               <Name>Lucas</Name>
+            </element>
+            <element>
+               <Name>King Dedede</Name>
+            </element>
+            <element>
+               <Name>Olimar</Name>
+            </element>
+            <element>
+               <Name>Snake</Name>
+            </element>
+            <element>
+               <Name>Sonic the Hedgehog</Name>
+            </element>
+            <element>
+               <Name>Ness</Name>
+            </element>
+            <element>
+               <Name>Marth</Name>
+            </element>
+            <element>
+               <Name>Luigi</Name>
+            </element>
+            <element>
+               <Name>Falco</Name>
+            </element>
+            <element>
+               <Name>Captain Falcon</Name>
+            </element>
+            <element>
+               <Name>Lucario</Name>
+            </element>
+            <element>
+               <Name>R.O.B.</Name>
+            </element>
+            <element>
+               <Name>Jigglypuff</Name>
+            </element>
+            <element>
+               <Name>Ganondorf</Name>
+            </element>
+            <element>
+               <Name>Toon Link</Name>
+            </element>
+            <element>
+               <Name>Mr. Game &amp; Watch</Name>
+            </element>
+            <element>
+               <Name>Wolf</Name>
+            </element>
+         </characters>
+         <name>Super Smash Bros. Brawl</name>
+         <stages>
+            <element>
+               <Name>Battlefield</Name>
+            </element>
+            <element>
+               <Name>Final Destination</Name>
+            </element>
+            <element>
+               <Name>Delfino Plaza</Name>
+            </element>
+            <element>
+               <Name>Mushroomy Kingdom</Name>
+            </element>
+            <element>
+               <Name>Mario Circuit</Name>
+            </element>
+            <element>
+               <Name>Luigi's Mansion</Name>
+            </element>
+            <element>
+               <Name>Mario Bros.</Name>
+            </element>
+            <element>
+               <Name>Rumble Falls</Name>
+            </element>
+            <element>
+               <Name>75m</Name>
+            </element>
+            <element>
+               <Name>Yoshi's Island</Name>
+            </element>
+            <element>
+               <Name>Bridge of Eldin</Name>
+            </element>
+            <element>
+               <Name>Pirate Ship</Name>
+            </element>
+            <element>
+               <Name>Norfair</Name>
+            </element>
+            <element>
+               <Name>Frigate Orpheon</Name>
+            </element>
+            <element>
+               <Name>Halberd</Name>
+            </element>
+            <element>
+               <Name>Lylat Cruise</Name>
+            </element>
+            <element>
+               <Name>Pokémon Stadium 2</Name>
+            </element>
+            <element>
+               <Name>Spear Pillar</Name>
+            </element>
+            <element>
+               <Name>Port Town Aero Dive</Name>
+            </element>
+            <element>
+               <Name>New Pork City</Name>
+            </element>
+            <element>
+               <Name>Summit</Name>
+            </element>
+            <element>
+               <Name>Castle Siege</Name>
+            </element>
+            <element>
+               <Name>Flat Zone 2</Name>
+            </element>
+            <element>
+               <Name>Skyworld</Name>
+            </element>
+            <element>
+               <Name>WarioWare</Name>
+            </element>
+            <element>
+               <Name>Distant Planet</Name>
+            </element>
+            <element>
+               <Name>Smashville</Name>
+            </element>
+            <element>
+               <Name>PictoChat</Name>
+            </element>
+            <element>
+               <Name>Hanenbow</Name>
+            </element>
+            <element>
+               <Name>Shadow Moses Island</Name>
+            </element>
+            <element>
+               <Name>Green Hill Zone</Name>
+            </element>
+            <element>
+               <Name>Rainbow Cruise</Name>
+            </element>
+            <element>
+               <Name>Jungle Japes</Name>
+            </element>
+            <element>
+               <Name>Temple</Name>
+            </element>
+            <element>
+               <Name>Brinstar</Name>
+            </element>
+            <element>
+               <Name>Yoshi's Island</Name>
+            </element>
+            <element>
+               <Name>Green Greens</Name>
+            </element>
+            <element>
+               <Name>Corneria</Name>
+            </element>
+            <element>
+               <Name>Pokémon Stadium</Name>
+            </element>
+            <element>
+               <Name>Big Blue</Name>
+            </element>
+            <element>
+               <Name>Onett</Name>
+            </element>
+         </stages>
+      </element>
+      <element>
+         <Abbreviation>Smash 3DS</Abbreviation>
+         <BannerUrl>https://ksassets.timeincuk.net/wp/uploads/sites/54/2014/10/Super-Smash-Bros-3DS-1-1-3.jpg</BannerUrl>
+         <Name>Super Smash Bros. For 3DS</Name>
+         <characters>
+            <element>
+               <Name>Mario</Name>
+            </element>
+            <element>
+               <Name>Luigi</Name>
+            </element>
+            <element>
+               <Name>Peach</Name>
+            </element>
+            <element>
+               <Name>Bowser</Name>
+            </element>
+            <element>
+               <Name>Yoshi</Name>
+            </element>
+            <element>
+               <Name>Rosalina &amp; Luma</Name>
+            </element>
+            <element>
+               <Name>Donkey Kong</Name>
+            </element>
+            <element>
+               <Name>Diddy Kong</Name>
+            </element>
+            <element>
+               <Name>Link</Name>
+            </element>
+            <element>
+               <Name>Zelda</Name>
+            </element>
+            <element>
+               <Name>Sheik</Name>
+            </element>
+            <element>
+               <Name>Toon Link</Name>
+            </element>
+            <element>
+               <Name>Samus</Name>
+            </element>
+            <element>
+               <Name>Zero Suit Samus</Name>
+            </element>
+            <element>
+               <Name>Pit</Name>
+            </element>
+            <element>
+               <Name>Palutena</Name>
+            </element>
+            <element>
+               <Name>Marth</Name>
+            </element>
+            <element>
+               <Name>Ike</Name>
+            </element>
+            <element>
+               <Name>Robin</Name>
+            </element>
+            <element>
+               <Name>Kirby</Name>
+            </element>
+            <element>
+               <Name>King Dedede</Name>
+            </element>
+            <element>
+               <Name>Meta Knight</Name>
+            </element>
+            <element>
+               <Name>Little Mac</Name>
+            </element>
+            <element>
+               <Name>Fox</Name>
+            </element>
+            <element>
+               <Name>Pikachu</Name>
+            </element>
+            <element>
+               <Name>Charizard</Name>
+            </element>
+            <element>
+               <Name>Lucario</Name>
+            </element>
+            <element>
+               <Name>Greninja</Name>
+            </element>
+            <element>
+               <Name>Captain Falcon</Name>
+            </element>
+            <element>
+               <Name>Villager</Name>
+            </element>
+            <element>
+               <Name>Olimar</Name>
+            </element>
+            <element>
+               <Name>Wii Fit Trainer</Name>
+            </element>
+            <element>
+               <Name>Shulk</Name>
+            </element>
+            <element>
+               <Name>Pac-Man</Name>
+            </element>
+            <element>
+               <Name>Mega Man</Name>
+            </element>
+            <element>
+               <Name>Sonic</Name>
+            </element>
+            <element>
+               <Name>Mii Fighters</Name>
+            </element>
+            <element>
+               <Name>Ness</Name>
+            </element>
+            <element>
+               <Name>Falco</Name>
+            </element>
+            <element>
+               <Name>Wario</Name>
+            </element>
+            <element>
+               <Name>Lucina</Name>
+            </element>
+            <element>
+               <Name>Dark Pit</Name>
+            </element>
+            <element>
+               <Name>Dr. Mario</Name>
+            </element>
+            <element>
+               <Name>R.O.B.</Name>
+            </element>
+            <element>
+               <Name>Ganondorf</Name>
+            </element>
+            <element>
+               <Name>Mr. Game &amp; Watch</Name>
+            </element>
+            <element>
+               <Name>Bowser Jr.</Name>
+            </element>
+            <element>
+               <Name>Duck Hunt</Name>
+            </element>
+            <element>
+               <Name>Jigglypuff</Name>
+            </element>
+            <element>
+               <Name>Mewtwo</Name>
+            </element>
+            <element>
+               <Name>Lucas</Name>
+            </element>
+            <element>
+               <Name>Roy</Name>
+            </element>
+            <element>
+               <Name>Ryu</Name>
+            </element>
+            <element>
+               <Name>Cloud</Name>
+            </element>
+            <element>
+               <Name>Corrin</Name>
+            </element>
+            <element>
+               <Name>Bayonetta</Name>
+            </element>
+         </characters>
+         <stages>
+            <element>
+               <Name>Battlefield</Name>
+            </element>
+            <element>
+               <Name>Final Destination</Name>
+            </element>
+            <element>
+               <Name>3D Land</Name>
+            </element>
+            <element>
+               <Name>Golden Plains</Name>
+            </element>
+            <element>
+               <Name>Rainbow Road</Name>
+            </element>
+            <element>
+               <Name>Paper Mario</Name>
+            </element>
+            <element>
+               <Name>Super Mario Maker</Name>
+            </element>
+            <element>
+               <Name>Peach's Castle (64)</Name>
+            </element>
+            <element>
+               <Name>Mushroomy Kingdom</Name>
+            </element>
+            <element>
+               <Name>Yoshi's Island</Name>
+            </element>
+            <element>
+               <Name>Jungle Japes</Name>
+            </element>
+            <element>
+               <Name>Gerudo Valley</Name>
+            </element>
+            <element>
+               <Name>Spirit Train</Name>
+            </element>
+            <element>
+               <Name>Hyrule Castle (64)</Name>
+            </element>
+            <element>
+               <Name>Brinstar</Name>
+            </element>
+            <element>
+               <Name>Dream Land</Name>
+            </element>
+            <element>
+               <Name>Dream Land (64)</Name>
+            </element>
+            <element>
+               <Name>Corneria</Name>
+            </element>
+            <element>
+               <Name>Unova Pokémon League</Name>
+            </element>
+            <element>
+               <Name>Prism Tower</Name>
+            </element>
+            <element>
+               <Name>Mute City</Name>
+            </element>
+            <element>
+               <Name>Magicant</Name>
+            </element>
+            <element>
+               <Name>Arena Ferox</Name>
+            </element>
+            <element>
+               <Name>Flat Zone 2</Name>
+            </element>
+            <element>
+               <Name>Reset Bomb Forest</Name>
+            </element>
+            <element>
+               <Name>WarioWare</Name>
+            </element>
+            <element>
+               <Name>Distant Planet</Name>
+            </element>
+            <element>
+               <Name>Tortimer Island</Name>
+            </element>
+            <element>
+               <Name>Boxing Ring</Name>
+            </element>
+            <element>
+               <Name>Gaur Plain</Name>
+            </element>
+            <element>
+               <Name>Duck Hunt</Name>
+            </element>
+            <element>
+               <Name>Balloon Fight</Name>
+            </element>
+            <element>
+               <Name>Living Room</Name>
+            </element>
+            <element>
+               <Name>Find Mii</Name>
+            </element>
+            <element>
+               <Name>Tomodachi Life</Name>
+            </element>
+            <element>
+               <Name>PictoChat 2</Name>
+            </element>
+            <element>
+               <Name>Green Hill Zone</Name>
+            </element>
+            <element>
+               <Name>Wily Castle</Name>
+            </element>
+            <element>
+               <Name>Pac-Maze</Name>
+            </element>
+            <element>
+               <Name>Suzaku Castle</Name>
+            </element>
+            <element>
+               <Name>Midgar</Name>
+            </element>
+            <element>
+               <Name>Umbra Clock Tower</Name>
+            </element>
+         </stages>
+      </element>
+      <element>
+         <Abbreviation>Smash Wii U</Abbreviation>
+         <BannerUrl>https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_SuperSmashBrosForWiiU_image1600w.jpg</BannerUrl>
+         <Name>Super Smash Bros. For Wii U</Name>
+         <characters>
+            <element>
+               <Name>Mario</Name>
+            </element>
+            <element>
+               <Name>Luigi</Name>
+            </element>
+            <element>
+               <Name>Peach</Name>
+            </element>
+            <element>
+               <Name>Bowser</Name>
+            </element>
+            <element>
+               <Name>Yoshi</Name>
+            </element>
+            <element>
+               <Name>Rosalina &amp; Luma</Name>
+            </element>
+            <element>
+               <Name>Donkey Kong</Name>
+            </element>
+            <element>
+               <Name>Diddy Kong</Name>
+            </element>
+            <element>
+               <Name>Link</Name>
+            </element>
+            <element>
+               <Name>Zelda</Name>
+            </element>
+            <element>
+               <Name>Sheik</Name>
+            </element>
+            <element>
+               <Name>Toon Link</Name>
+            </element>
+            <element>
+               <Name>Samus</Name>
+            </element>
+            <element>
+               <Name>Zero Suit Samus</Name>
+            </element>
+            <element>
+               <Name>Pit</Name>
+            </element>
+            <element>
+               <Name>Palutena</Name>
+            </element>
+            <element>
+               <Name>Marth</Name>
+            </element>
+            <element>
+               <Name>Ike</Name>
+            </element>
+            <element>
+               <Name>Robin</Name>
+            </element>
+            <element>
+               <Name>Kirby</Name>
+            </element>
+            <element>
+               <Name>King Dedede</Name>
+            </element>
+            <element>
+               <Name>Meta Knight</Name>
+            </element>
+            <element>
+               <Name>Little Mac</Name>
+            </element>
+            <element>
+               <Name>Fox</Name>
+            </element>
+            <element>
+               <Name>Pikachu</Name>
+            </element>
+            <element>
+               <Name>Charizard</Name>
+            </element>
+            <element>
+               <Name>Lucario</Name>
+            </element>
+            <element>
+               <Name>Greninja</Name>
+            </element>
+            <element>
+               <Name>Captain Falcon</Name>
+            </element>
+            <element>
+               <Name>Villager</Name>
+            </element>
+            <element>
+               <Name>Olimar</Name>
+            </element>
+            <element>
+               <Name>Wii Fit Trainer</Name>
+            </element>
+            <element>
+               <Name>Shulk</Name>
+            </element>
+            <element>
+               <Name>Pac-Man</Name>
+            </element>
+            <element>
+               <Name>Mega Man</Name>
+            </element>
+            <element>
+               <Name>Sonic</Name>
+            </element>
+            <element>
+               <Name>Mii Fighters</Name>
+            </element>
+            <element>
+               <Name>Ness</Name>
+            </element>
+            <element>
+               <Name>Falco</Name>
+            </element>
+            <element>
+               <Name>Wario</Name>
+            </element>
+            <element>
+               <Name>Lucina</Name>
+            </element>
+            <element>
+               <Name>Dark Pit</Name>
+            </element>
+            <element>
+               <Name>Dr. Mario</Name>
+            </element>
+            <element>
+               <Name>R.O.B.</Name>
+            </element>
+            <element>
+               <Name>Ganondorf</Name>
+            </element>
+            <element>
+               <Name>Mr. Game &amp; Watch</Name>
+            </element>
+            <element>
+               <Name>Bowser Jr.</Name>
+            </element>
+            <element>
+               <Name>Duck Hunt</Name>
+            </element>
+            <element>
+               <Name>Jigglypuff</Name>
+            </element>
+            <element>
+               <Name>Mewtwo</Name>
+            </element>
+            <element>
+               <Name>Lucas</Name>
+            </element>
+            <element>
+               <Name>Roy</Name>
+            </element>
+            <element>
+               <Name>Ryu</Name>
+            </element>
+            <element>
+               <Name>Cloud</Name>
+            </element>
+            <element>
+               <Name>Corrin</Name>
+            </element>
+            <element>
+               <Name>Bayonetta</Name>
+            </element>
+         </characters>
+         <stages>
+            <element>
+               <Name>Battlefield</Name>
+            </element>
+            <element>
+               <Name>Big Battlefield</Name>
+            </element>
+            <element>
+               <Name>Final Destination</Name>
+            </element>
+            <element>
+               <Name>Mario Galaxy</Name>
+            </element>
+            <element>
+               <Name>Mushroom Kingdom U</Name>
+            </element>
+            <element>
+               <Name>Mario Circuit</Name>
+            </element>
+            <element>
+               <Name>Super Mario Maker</Name>
+            </element>
+            <element>
+               <Name>Peach's Castle (64)</Name>
+            </element>
+            <element>
+               <Name>Delfino Plaza</Name>
+            </element>
+            <element>
+               <Name>Luigi's Mansion</Name>
+            </element>
+            <element>
+               <Name>Mario Circuit (Brawl)</Name>
+            </element>
+            <element>
+               <Name>Jungle Hijinxs</Name>
+            </element>
+            <element>
+               <Name>Kongo Jungle 64</Name>
+            </element>
+            <element>
+               <Name>75m</Name>
+            </element>
+            <element>
+               <Name>Woolly World</Name>
+            </element>
+            <element>
+               <Name>Yoshi's Island</Name>
+            </element>
+            <element>
+               <Name>Skyloft</Name>
+            </element>
+            <element>
+               <Name>Hyrule Castle (64)</Name>
+            </element>
+            <element>
+               <Name>Temple</Name>
+            </element>
+            <element>
+               <Name>Bridge of Eldin</Name>
+            </element>
+            <element>
+               <Name>Pirate Ship</Name>
+            </element>
+            <element>
+               <Name>Pyrosphere</Name>
+            </element>
+            <element>
+               <Name>Norfair</Name>
+            </element>
+            <element>
+               <Name>The Great Cave Offensive</Name>
+            </element>
+            <element>
+               <Name>Dream Land (64)</Name>
+            </element>
+            <element>
+               <Name>Halberd</Name>
+            </element>
+            <element>
+               <Name>Orbital Gate Assault</Name>
+            </element>
+            <element>
+               <Name>Lylat Cruise</Name>
+            </element>
+            <element>
+               <Name>Kalos Pokémon League</Name>
+            </element>
+            <element>
+               <Name>Pokémon Stadium 2</Name>
+            </element>
+            <element>
+               <Name>Port Town Aero Dive</Name>
+            </element>
+            <element>
+               <Name>Onett</Name>
+            </element>
+            <element>
+               <Name>Coliseum</Name>
+            </element>
+            <element>
+               <Name>Castle Siege</Name>
+            </element>
+            <element>
+               <Name>Flat Zone X</Name>
+            </element>
+            <element>
+               <Name>Palutena's Temple</Name>
+            </element>
+            <element>
+               <Name>Skyworld</Name>
+            </element>
+            <element>
+               <Name>Gamer</Name>
+            </element>
+            <element>
+               <Name>Garden of Hope</Name>
+            </element>
+            <element>
+               <Name>Town and City</Name>
+            </element>
+            <element>
+               <Name>Smashville</Name>
+            </element>
+            <element>
+               <Name>Boxing Ring</Name>
+            </element>
+            <element>
+               <Name>Wii Fit Studio</Name>
+            </element>
+            <element>
+               <Name>Gaur Plain</Name>
+            </element>
+            <element>
+               <Name>Duck Hunt</Name>
+            </element>
+            <element>
+               <Name>Wrecking Crew</Name>
+            </element>
+            <element>
+               <Name>Pilotwings</Name>
+            </element>
+            <element>
+               <Name>Wuhu Island</Name>
+            </element>
+            <element>
+               <Name>Miiverse</Name>
+            </element>
+            <element>
+               <Name>Windy Hill Zone</Name>
+            </element>
+            <element>
+               <Name>Wily Castle</Name>
+            </element>
+            <element>
+               <Name>Pac-Land</Name>
+            </element>
+            <element>
+               <Name>Suzaku Castle</Name>
+            </element>
+            <element>
+               <Name>Midgar</Name>
+            </element>
+            <element>
+               <Name>Umbra Clock Tower</Name>
+            </element>
+         </stages>
+      </element>
+      <element>
+         <Abbreviation>Ultimate</Abbreviation>
+         <BannerUrl>http://images.nintendolife.com/cfc6408cf3e7f/super-smash-bros-bultimate.original.jpg</BannerUrl>
+         <Name>Super Smash Bros. Ultimate</Name>
+         <characters>
+            <element>
+               <Name>Mario</Name>
+            </element>
+            <element>
+               <Name>Luigi</Name>
+            </element>
+            <element>
+               <Name>Peach</Name>
+            </element>
+            <element>
+               <Name>Bowser</Name>
+            </element>
+            <element>
+               <Name>Yoshi</Name>
+            </element>
+            <element>
+               <Name>Rosalina &amp; Luma</Name>
+            </element>
+            <element>
+               <Name>Donkey Kong</Name>
+            </element>
+            <element>
+               <Name>Diddy Kong</Name>
+            </element>
+            <element>
+               <Name>Link</Name>
+            </element>
+            <element>
+               <Name>Zelda</Name>
+            </element>
+            <element>
+               <Name>Sheik</Name>
+            </element>
+            <element>
+               <Name>Toon Link</Name>
+            </element>
+            <element>
+               <Name>Samus</Name>
+            </element>
+            <element>
+               <Name>Zero Suit Samus</Name>
+            </element>
+            <element>
+               <Name>Pit</Name>
+            </element>
+            <element>
+               <Name>Palutena</Name>
+            </element>
+            <element>
+               <Name>Marth</Name>
+            </element>
+            <element>
+               <Name>Ike</Name>
+            </element>
+            <element>
+               <Name>Robin</Name>
+            </element>
+            <element>
+               <Name>Kirby</Name>
+            </element>
+            <element>
+               <Name>King Dedede</Name>
+            </element>
+            <element>
+               <Name>Meta Knight</Name>
+            </element>
+            <element>
+               <Name>Little Mac</Name>
+            </element>
+            <element>
+               <Name>Fox</Name>
+            </element>
+            <element>
+               <Name>Pikachu</Name>
+            </element>
+            <element>
+               <Name>Pokemon Trainer</Name>
+            </element>
+            <element>
+               <Name>Lucario</Name>
+            </element>
+            <element>
+               <Name>Greninja</Name>
+            </element>
+            <element>
+               <Name>Captain Falcon</Name>
+            </element>
+            <element>
+               <Name>Villager</Name>
+            </element>
+            <element>
+               <Name>Olimar</Name>
+            </element>
+            <element>
+               <Name>Wii Fit Trainer</Name>
+            </element>
+            <element>
+               <Name>Shulk</Name>
+            </element>
+            <element>
+               <Name>Pac-Man</Name>
+            </element>
+            <element>
+               <Name>Mega Man</Name>
+            </element>
+            <element>
+               <Name>Sonic</Name>
+            </element>
+            <element>
+               <Name>Mii Fighters</Name>
+            </element>
+            <element>
+               <Name>Ness</Name>
+            </element>
+            <element>
+               <Name>Falco</Name>
+            </element>
+            <element>
+               <Name>Wario</Name>
+            </element>
+            <element>
+               <Name>Lucina</Name>
+            </element>
+            <element>
+               <Name>Dark Pit</Name>
+            </element>
+            <element>
+               <Name>Dr. Mario</Name>
+            </element>
+            <element>
+               <Name>R.O.B.</Name>
+            </element>
+            <element>
+               <Name>Ganondorf</Name>
+            </element>
+            <element>
+               <Name>Mr. Game &amp; Watch</Name>
+            </element>
+            <element>
+               <Name>Bowser Jr.</Name>
+            </element>
+            <element>
+               <Name>Duck Hunt</Name>
+            </element>
+            <element>
+               <Name>Jigglypuff</Name>
+            </element>
+            <element>
+               <Name>Mewtwo</Name>
+            </element>
+            <element>
+               <Name>Lucas</Name>
+            </element>
+            <element>
+               <Name>Roy</Name>
+            </element>
+            <element>
+               <Name>Ryu</Name>
+            </element>
+            <element>
+               <Name>Cloud</Name>
+            </element>
+            <element>
+               <Name>Corrin</Name>
+            </element>
+            <element>
+               <Name>Bayonetta</Name>
+            </element>
+            <element>
+               <Name>Snake</Name>
+            </element>
+            <element>
+               <Name>Ice Climbers</Name>
+            </element>
+            <element>
+               <Name>Inkling</Name>
+            </element>
+            <element>
+               <Name>Daisy</Name>
+            </element>
+            <element>
+               <Name>King K. Rool</Name>
+            </element>
+            <element>
+               <Name>Dark Samus</Name>
+            </element>
+            <element>
+               <Name>Young Link</Name>
+            </element>
+            <element>
+               <Name>Simon</Name>
+            </element>
+            <element>
+               <Name>Richter</Name>
+            </element>
+            <element>
+               <Name>Joker</Name>
+            </element>
+            <element>
+               <Name>Pikachu</Name>
+            </element>
+            <element>
+               <Name>Wolf</Name>
+            </element>
+            <element>
+               <Name>Isabelle</Name>
+            </element>
+            <element>
+               <Name>Incineroar</Name>
+            </element>
+            <element>
+               <Name>Piranha plant</Name>
+            </element>
+            <element>
+               <Name>Ken</Name>
+            </element>
+            <element>
+               <Name>Hero</Name>
+            </element>
+         </characters>
+         <stages>
+            <element>
+               <Name>Battlefield</Name>
+            </element>
+            <element>
+               <Name>Big Battlefield</Name>
+            </element>
+            <element>
+               <Name>Final Destination</Name>
+            </element>
+            <element>
+               <Name>New Donk City Hall</Name>
+            </element>
+            <element>
+               <Name>Great Plateau Tower</Name>
+            </element>
+            <element>
+               <Name>Moray Towers</Name>
+            </element>
+            <element>
+               <Name>Dracula's Castle</Name>
+            </element>
+            <element>
+               <Name>Mementos</Name>
+            </element>
+            <element>
+               <Name>Yggdrasil's Altar</Name>
+            </element>
+            <element>
+               <Name>Spiral Mountain</Name>
+            </element>
+            <element>
+               <Name>Peach's Castle</Name>
+            </element>
+            <element>
+               <Name>Mushroom Kingdom</Name>
+            </element>
+            <element>
+               <Name>Princess Peach's Castle</Name>
+            </element>
+            <element>
+               <Name>Rainbow Cruise</Name>
+            </element>
+            <element>
+               <Name>Mushroom Kingdom II</Name>
+            </element>
+            <element>
+               <Name>Delfino Plaza</Name>
+            </element>
+            <element>
+               <Name>Luigi's Mansion</Name>
+            </element>
+            <element>
+               <Name>Mushroomy Kingdom</Name>
+            </element>
+            <element>
+               <Name>Figure-8 Circuit</Name>
+            </element>
+            <element>
+               <Name>Mario Bros.</Name>
+            </element>
+            <element>
+               <Name>3D Land</Name>
+            </element>
+            <element>
+               <Name>Golden Plains</Name>
+            </element>
+            <element>
+               <Name>Paper Mario</Name>
+            </element>
+            <element>
+               <Name>Mushroom Kingdom U</Name>
+            </element>
+            <element>
+               <Name>Mario Galaxy</Name>
+            </element>
+            <element>
+               <Name>Mario Circuit</Name>
+            </element>
+            <element>
+               <Name>Super Mario Maker</Name>
+            </element>
+            <element>
+               <Name>Kongo Jungle</Name>
+            </element>
+            <element>
+               <Name>Kongo Falls</Name>
+            </element>
+            <element>
+               <Name>Jungle Japes</Name>
+            </element>
+            <element>
+               <Name>75m</Name>
+            </element>
+            <element>
+               <Name>Super Happy Tree</Name>
+            </element>
+            <element>
+               <Name>Yoshi's Island (Melee)</Name>
+            </element>
+            <element>
+               <Name>Yoshi's Story</Name>
+            </element>
+            <element>
+               <Name>Yoshi’s Island</Name>
+            </element>
+            <element>
+               <Name>Hyrule Castle</Name>
+            </element>
+            <element>
+               <Name>Great Bay</Name>
+            </element>
+            <element>
+               <Name>Temple</Name>
+            </element>
+            <element>
+               <Name>Bridge of Eldin</Name>
+            </element>
+            <element>
+               <Name>Pirate Ship</Name>
+            </element>
+            <element>
+               <Name>Gerudo Valley</Name>
+            </element>
+            <element>
+               <Name>Spirit Train</Name>
+            </element>
+            <element>
+               <Name>Skyloft</Name>
+            </element>
+            <element>
+               <Name>Brinstar</Name>
+            </element>
+            <element>
+               <Name>Brinstar Depths</Name>
+            </element>
+            <element>
+               <Name>Norfair</Name>
+            </element>
+            <element>
+               <Name>Frigate Orpheon</Name>
+            </element>
+            <element>
+               <Name>Dream Land</Name>
+            </element>
+            <element>
+               <Name>Fountain of Dreams</Name>
+            </element>
+            <element>
+               <Name>Green Greens</Name>
+            </element>
+            <element>
+               <Name>Halberd</Name>
+            </element>
+            <element>
+               <Name>Dream Land GB</Name>
+            </element>
+            <element>
+               <Name>The Great Cave Offensive</Name>
+            </element>
+            <element>
+               <Name>Corneria</Name>
+            </element>
+            <element>
+               <Name>Venom</Name>
+            </element>
+            <element>
+               <Name>Lylat Cruise</Name>
+            </element>
+            <element>
+               <Name>Saffron City</Name>
+            </element>
+            <element>
+               <Name>Pokémon Stadium</Name>
+            </element>
+            <element>
+               <Name>Pokémon Stadium 2</Name>
+            </element>
+            <element>
+               <Name>Spear Pillar</Name>
+            </element>
+            <element>
+               <Name>Unova Pokémon League</Name>
+            </element>
+            <element>
+               <Name>Prism Tower</Name>
+            </element>
+            <element>
+               <Name>Kalos Pokémon League</Name>
+            </element>
+            <element>
+               <Name>Big Blue</Name>
+            </element>
+            <element>
+               <Name>Port Town Aero Dive</Name>
+            </element>
+            <element>
+               <Name>Mute City SNES</Name>
+            </element>
+            <element>
+               <Name>Onett</Name>
+            </element>
+            <element>
+               <Name>Fourside</Name>
+            </element>
+            <element>
+               <Name>New Pork City</Name>
+            </element>
+            <element>
+               <Name>Magicant</Name>
+            </element>
+            <element>
+               <Name>Summit</Name>
+            </element>
+            <element>
+               <Name>Castle Siege</Name>
+            </element>
+            <element>
+               <Name>Arena Ferox</Name>
+            </element>
+            <element>
+               <Name>Coliseum</Name>
+            </element>
+            <element>
+               <Name>Flat Zone X</Name>
+            </element>
+            <element>
+               <Name>Skyworld</Name>
+            </element>
+            <element>
+               <Name>Reset Bomb Forest</Name>
+            </element>
+            <element>
+               <Name>Palutena's Temple</Name>
+            </element>
+            <element>
+               <Name>WarioWare</Name>
+            </element>
+            <element>
+               <Name>Gamer</Name>
+            </element>
+            <element>
+               <Name>Distant Planet</Name>
+            </element>
+            <element>
+               <Name>Garden of Hope</Name>
+            </element>
+            <element>
+               <Name>Smashville</Name>
+            </element>
+            <element>
+               <Name>Tortimer Island</Name>
+            </element>
+            <element>
+               <Name>Town and City</Name>
+            </element>
+            <element>
+               <Name>Boxing Ring</Name>
+            </element>
+            <element>
+               <Name>Wii Fit Studio</Name>
+            </element>
+            <element>
+               <Name>Gaur Plain</Name>
+            </element>
+            <element>
+               <Name>Duck Hunt</Name>
+            </element>
+            <element>
+               <Name>Shadow Moses Island</Name>
+            </element>
+            <element>
+               <Name>Green Hill Zone</Name>
+            </element>
+            <element>
+               <Name>Windy Hill Zone</Name>
+            </element>
+            <element>
+               <Name>Wily Castle</Name>
+            </element>
+            <element>
+               <Name>Pac-Land</Name>
+            </element>
+            <element>
+               <Name>Suzaku Castle</Name>
+            </element>
+            <element>
+               <Name>Midgar</Name>
+            </element>
+            <element>
+               <Name>Umbra Clock Tower</Name>
+            </element>
+            <element>
+               <Name>Hanenbow</Name>
+            </element>
+            <element>
+               <Name>PictoChat 2</Name>
+            </element>
+            <element>
+               <Name>Balloon Fight</Name>
+            </element>
+            <element>
+               <Name>Living Room</Name>
+            </element>
+            <element>
+               <Name>Find Mii</Name>
+            </element>
+            <element>
+               <Name>Tomodachi Life</Name>
+            </element>
+            <element>
+               <Name>Wrecking Crew</Name>
+            </element>
+            <element>
+               <Name>Pilotwings</Name>
+            </element>
+            <element>
+               <Name>Wuhu Island</Name>
+            </element>
+         </stages>
+      </element>
+   </games>
+</root>

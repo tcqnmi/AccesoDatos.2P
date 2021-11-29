@@ -1,0 +1,1999 @@
+<system>
+	<msg>OK</msg>
+	<code>OK</code>
+	<data>
+		<estimatedrows>false</estimatedrows>
+		<pagesize>0</pagesize>
+		<pagecount />
+		<resultset>
+			<status>P</status>
+			<code>SOL</code>
+			<aggregated_economy>5.58</aggregated_economy>
+			<name>Sol</name>
+			<info_url />
+			<aggregated_population>8.77</aggregated_population>
+			<celestial_objects>
+				<code>SOL.JUMPPOINTS.DAVIEN</code>
+				<shader_data />
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>-128.96200000</longitude>
+				<habitable />
+				<id>2019</id>
+				<size>0.00000000</size>
+				<sensor_population>0</sensor_population>
+				<orbit_period />
+				<parent_id />
+				<show_orbitlines />
+				<latitude>25.28630000</latitude>
+				<subtype_id />
+				<type>JUMPPOINT</type>
+				<show_label>1</show_label>
+				<description>Jump Point</description>
+				<info_url />
+				<distance>16.30000000</distance>
+				<name />
+				<designation>Sol - Davien</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-09 17:20:47</time_modified>
+				<subtype />
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.JUMPPOINTS.CROSHAW</code>
+				<shader_data />
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>87.21810000</longitude>
+				<habitable />
+				<id>2021</id>
+				<size>0.00000000</size>
+				<sensor_population>0</sensor_population>
+				<orbit_period />
+				<parent_id />
+				<show_orbitlines />
+				<latitude>-4.19421000</latitude>
+				<subtype_id />
+				<type>JUMPPOINT</type>
+				<show_label>1</show_label>
+				<description>Jump Point</description>
+				<info_url />
+				<distance>51.00000000</distance>
+				<name />
+				<designation>Sol - Croshaw</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-09 17:20:49</time_modified>
+				<subtype />
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.STARS.SOL</code>
+				<shader_data>
+					<orbitalMax>5</orbitalMax>
+					<sun>
+						<flare2>0.5</flare2>
+						<rotation1>0.6</rotation1>
+						<iterations>0</iterations>
+						<sphere>1</sphere>
+						<rotation2>0.6</rotation2>
+						<texture>1</texture>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(205,166,77)</color1>
+						<flare3>0.265</flare3>
+						<map>0</map>
+						<color2>rgb(205,90,26)</color2>
+						<flare6>0.1</flare6>
+						<corona>1</corona>
+						<flare4>0.5</flare4>
+						<flare5>0.5</flare5>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<glow>0.5</glow>
+						<scalePeriod>1</scalePeriod>
+						<flare1>0.265</flare1>
+					</sun>
+					<orbitalFactor>1</orbitalFactor>
+					<radius>0.06</radius>
+					<orbitalMin>1</orbitalMin>
+				</shader_data>
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact>0</fairchanceact>
+				<longitude>0.00000000</longitude>
+				<habitable />
+				<id>2023</id>
+				<size>1.00000000</size>
+				<sensor_population>0</sensor_population>
+				<orbit_period />
+				<parent_id />
+				<show_orbitlines>0</show_orbitlines>
+				<latitude>0.00000000</latitude>
+				<subtype_id>59</subtype_id>
+				<type>STAR</type>
+				<show_label>1</show_label>
+				<description />
+				<info_url />
+				<distance>0.00000000</distance>
+				<name />
+				<designation>Sol</designation>
+				<age>4.60000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-10 01:21:37</time_modified>
+				<subtype>
+					<type>STAR</type>
+					<id>59</id>
+					<name>Main Sequence-Dwarf-G</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.MERCURY</code>
+				<shader_data />
+				<sensor_danger>2</sensor_danger>
+				<affiliation>
+					<color>#48bbd4</color>
+					<membership.id>2278</membership.id>
+					<code>uee</code>
+					<id>1</id>
+					<name>UEE</name>
+				</affiliation>
+				<fairchanceact />
+				<longitude>59.39330000</longitude>
+				<habitable />
+				<id>2024</id>
+				<size>2439.70000000</size>
+				<sensor_population>1</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/vx5nehwypz25dr/post/Mercury.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/vx5nehwypz25dr/subscribers_vault_thumbnail/Mercury.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/vx5nehwypz25dr/product_thumb_large/Mercury.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/vx5nehwypz25dr/source/Mercury.jpg</source>
+					<slug>vx5nehwypz25d</slug>
+				</texture>
+				<orbit_period>87.96900000</orbit_period>
+				<parent_id>2023</parent_id>
+				<show_orbitlines>1</show_orbitlines>
+				<latitude>-3.61006000</latitude>
+				<subtype_id>27</subtype_id>
+				<type>PLANET</type>
+				<show_label>1</show_label>
+				<description>Due to an orbital eccentricity, this small planet experiences the greatest temperature variations of any planet in the system.</description>
+				<info_url />
+				<distance>0.46669700</distance>
+				<name>Mercury</name>
+				<designation>Sol I</designation>
+				<age>0.00000000</age>
+				<appearance>PLANET_BROWN</appearance>
+				<sensor_economy>1</sensor_economy>
+				<time_modified>2015-10-09 14:13:09</time_modified>
+				<subtype>
+					<type>PLANET</type>
+					<id>27</id>
+					<name>Iron Planet</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.VENUS</code>
+				<shader_data />
+				<sensor_danger>3</sensor_danger>
+				<affiliation>
+					<color>#48bbd4</color>
+					<membership.id>2158</membership.id>
+					<code>uee</code>
+					<id>1</id>
+					<name>UEE</name>
+				</affiliation>
+				<fairchanceact />
+				<longitude>169.76000000</longitude>
+				<habitable />
+				<id>2025</id>
+				<size>6051.80000000</size>
+				<sensor_population>1</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/j8qfxa304mrcor/post/Planet_Venus.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/j8qfxa304mrcor/subscribers_vault_thumbnail/Planet_Venus.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/j8qfxa304mrcor/product_thumb_large/Planet_Venus.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/j8qfxa304mrcor/source/Planet_Venus.jpg</source>
+					<slug>j8qfxa304mrco</slug>
+				</texture>
+				<orbit_period>224.70100000</orbit_period>
+				<parent_id>2023</parent_id>
+				<show_orbitlines>1</show_orbitlines>
+				<latitude>3.34633000</latitude>
+				<subtype_id>20</subtype_id>
+				<type>PLANET</type>
+				<show_label>1</show_label>
+				<description>Venus’s atmosphere is almost entirely composed of carbon dioxide, which makes it the hottest planet in the Sol System.</description>
+				<info_url />
+				<distance>0.72821300</distance>
+				<name>Venus</name>
+				<designation>Sol II</designation>
+				<age>0.00000000</age>
+				<appearance>PLANET_BROWN</appearance>
+				<sensor_economy>1</sensor_economy>
+				<time_modified>2015-10-08 21:19:46</time_modified>
+				<subtype>
+					<type>PLANET</type>
+					<id>20</id>
+					<name>Smog Planet</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.EARTH</code>
+				<shader_data />
+				<sensor_danger>3</sensor_danger>
+				<affiliation>
+					<color>#48bbd4</color>
+					<membership.id>2711</membership.id>
+					<code>uee</code>
+					<id>1</id>
+					<name>UEE</name>
+				</affiliation>
+				<fairchanceact />
+				<longitude>74.68260000</longitude>
+				<habitable>1</habitable>
+				<id>2026</id>
+				<size>6371.00000000</size>
+				<sensor_population>7</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/5dvd8cognsxbgr/post/Planet_Earth512.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/5dvd8cognsxbgr/subscribers_vault_thumbnail/Planet_Earth512.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/5dvd8cognsxbgr/product_thumb_large/Planet_Earth512.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/5dvd8cognsxbgr/source/Planet_Earth512.jpg</source>
+					<slug>5dvd8cognsxbg</slug>
+				</texture>
+				<orbit_period>365.25600000</orbit_period>
+				<parent_id>2023</parent_id>
+				<show_orbitlines>1</show_orbitlines>
+				<latitude>0.00000000</latitude>
+				<subtype_id>55</subtype_id>
+				<type>PLANET</type>
+				<thumbnail>
+					<images>
+						<post>https://robertsspaceindustries.com/media/722i0s9ojuf58r/post/Earthjp-Nyc.png</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/722i0s9ojuf58r/subscribers_vault_thumbnail/Earthjp-Nyc.png</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/722i0s9ojuf58r/product_thumb_large/Earthjp-Nyc.png</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/722i0s9ojuf58r/source/Earthjp-Nyc.png</source>
+					<slug>722i0s9ojuf58</slug>
+				</thumbnail>
+				<show_label>1</show_label>
+				<description>Humanity’s homeworld and namesake of the United Empire of Earth. It is the center of the UEE political machine and a focal point in the Empire’s commerce and culture. Centuries of habitation have stripped the planet of its natural resources resulting in a heavy dependence on imports for the billions that live here. </description>
+				<info_url />
+				<distance>1.00000000</distance>
+				<name>Earth</name>
+				<designation>Sol III</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>10</sensor_economy>
+				<time_modified>2016-06-27 18:07:36</time_modified>
+				<subtype>
+					<type>PLANET</type>
+					<id>55</id>
+					<name>Terrestrial Rocky</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.MARS</code>
+				<shader_data />
+				<sensor_danger>4</sensor_danger>
+				<affiliation>
+					<color>#48bbd4</color>
+					<membership.id>2243</membership.id>
+					<code>uee</code>
+					<id>1</id>
+					<name>UEE</name>
+				</affiliation>
+				<fairchanceact />
+				<longitude>16.63730000</longitude>
+				<habitable>1</habitable>
+				<id>2027</id>
+				<size>3389.50000000</size>
+				<sensor_population>6</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/7wes0jfwwl1bcr/post/Planet_Mars.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/7wes0jfwwl1bcr/subscribers_vault_thumbnail/Planet_Mars.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/7wes0jfwwl1bcr/product_thumb_large/Planet_Mars.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/7wes0jfwwl1bcr/source/Planet_Mars.jpg</source>
+					<slug>7wes0jfwwl1bc</slug>
+				</texture>
+				<orbit_period>687.18000000</orbit_period>
+				<parent_id>2023</parent_id>
+				<show_orbitlines>1</show_orbitlines>
+				<latitude>-1.77345000</latitude>
+				<subtype_id>56</subtype_id>
+				<type>PLANET</type>
+				<show_label>1</show_label>
+				<description>A prosperous and populous planet, Mars was the Empire’s first successfully terraformed planet. The process was marred by what is today known as the Mars Tragedy when a terraforming disaster killed 4,876 people in 2125.</description>
+				<info_url />
+				<distance>1.52400000</distance>
+				<name>Mars</name>
+				<designation>Sol IV</designation>
+				<age>0.00000000</age>
+				<appearance>PLANET_BROWN</appearance>
+				<sensor_economy>8</sensor_economy>
+				<time_modified>2015-10-08 23:45:19</time_modified>
+				<subtype>
+					<type>PLANET</type>
+					<id>56</id>
+					<name>Desert Planet</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.JUPITER</code>
+				<shader_data>
+					<orbitalMin>1</orbitalMin>
+					<orbitalMax>5</orbitalMax>
+					<orbitalHighlightColor>rgb(128,128,255)</orbitalHighlightColor>
+					<orbitalFactor>1</orbitalFactor>
+					<orbitalColor>rgb(26,86,124)</orbitalColor>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<ring>
+						<color1>#4d2400</color1>
+						<radius1>0.84179808070038</radius1>
+						<color2>#696969</color2>
+						<radius2>1</radius2>
+					</ring>
+				</shader_data>
+				<sensor_danger>3</sensor_danger>
+				<affiliation>
+					<color>#48bbd4</color>
+					<membership.id>2534</membership.id>
+					<code>uee</code>
+					<id>1</id>
+					<name>UEE</name>
+				</affiliation>
+				<fairchanceact />
+				<longitude>43.46780000</longitude>
+				<habitable />
+				<id>2028</id>
+				<size>69911.00000000</size>
+				<sensor_population>1</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/yyxagrxfet5z8r/post/Planet_Jupiter.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/yyxagrxfet5z8r/subscribers_vault_thumbnail/Planet_Jupiter.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/yyxagrxfet5z8r/product_thumb_large/Planet_Jupiter.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/yyxagrxfet5z8r/source/Planet_Jupiter.jpg</source>
+					<slug>yyxagrxfet5z8</slug>
+				</texture>
+				<orbit_period>4332.59000000</orbit_period>
+				<parent_id>2023</parent_id>
+				<show_orbitlines>1</show_orbitlines>
+				<latitude>-0.94877800</latitude>
+				<subtype_id>23</subtype_id>
+				<type>PLANET</type>
+				<show_label>1</show_label>
+				<description>This gas giant is the largest planet in the Sol System.  </description>
+				<info_url />
+				<distance>5.20400000</distance>
+				<name>Jupiter</name>
+				<designation>Sol V</designation>
+				<age>0.00000000</age>
+				<appearance>PLANET_BROWN</appearance>
+				<sensor_economy>2</sensor_economy>
+				<time_modified>2015-10-13 21:24:17</time_modified>
+				<subtype>
+					<type>PLANET</type>
+					<id>23</id>
+					<name>Gas Giant</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.SATURN</code>
+				<shader_data>
+					<orbitalMin>2.331658810645</orbitalMin>
+					<orbitalMax>4.7551561599552</orbitalMax>
+					<orbitalHighlightColor>rgb(128,128,255)</orbitalHighlightColor>
+					<orbitalFactor>1</orbitalFactor>
+					<orbitalColor>rgb(26,86,124)</orbitalColor>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<ring>
+						<color1>#73558e</color1>
+						<radius1>0.4676656003891</radius1>
+						<color2>#2a7db6</color2>
+						<speed>0.75</speed>
+						<radius2>0.98209776081711</radius2>
+					</ring>
+				</shader_data>
+				<sensor_danger>3</sensor_danger>
+				<affiliation>
+					<color>#48bbd4</color>
+					<membership.id>2536</membership.id>
+					<code>uee</code>
+					<id>1</id>
+					<name>UEE</name>
+				</affiliation>
+				<fairchanceact />
+				<longitude>-133.96800000</longitude>
+				<habitable />
+				<id>2029</id>
+				<size>58232.00000000</size>
+				<sensor_population>1</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/ps9wli4v169nbr/post/Planet_Saturne.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/ps9wli4v169nbr/subscribers_vault_thumbnail/Planet_Saturne.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/ps9wli4v169nbr/product_thumb_large/Planet_Saturne.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/ps9wli4v169nbr/source/Planet_Saturne.jpg</source>
+					<slug>ps9wli4v169nb</slug>
+				</texture>
+				<orbit_period>10759.20000000</orbit_period>
+				<parent_id>2023</parent_id>
+				<show_orbitlines>1</show_orbitlines>
+				<latitude>1.72675000</latitude>
+				<subtype_id>23</subtype_id>
+				<type>PLANET</type>
+				<show_label>1</show_label>
+				<description>A gas giant best known for its set of planetary rings.</description>
+				<info_url />
+				<distance>10.11600000</distance>
+				<name>Saturn</name>
+				<designation>Sol VI</designation>
+				<age>0.00000000</age>
+				<appearance>PLANET_BROWN</appearance>
+				<sensor_economy>1</sensor_economy>
+				<time_modified>2015-10-13 21:26:48</time_modified>
+				<subtype>
+					<type>PLANET</type>
+					<id>23</id>
+					<name>Gas Giant</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.URANUS</code>
+				<shader_data>
+					<orbitalMin>1</orbitalMin>
+					<orbitalMax>5</orbitalMax>
+					<orbitalHighlightColor>rgb(128,128,255)</orbitalHighlightColor>
+					<orbitalFactor>1</orbitalFactor>
+					<orbitalColor>rgb(26,86,124)</orbitalColor>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<ring>
+						<radius1>0.65473184054474</radius1>
+						<radius2>1</radius2>
+						<borderFading>0.2</borderFading>
+						<color1>#000000</color1>
+						<color2>#898989</color2>
+						<extraDensity>0.01</extraDensity>
+						<speed>0.75</speed>
+					</ring>
+				</shader_data>
+				<sensor_danger>4</sensor_danger>
+				<affiliation>
+					<color>#48bbd4</color>
+					<membership.id>2380</membership.id>
+					<code>uee</code>
+					<id>1</id>
+					<name>UEE</name>
+				</affiliation>
+				<fairchanceact />
+				<longitude>162.57400000</longitude>
+				<habitable />
+				<id>2030</id>
+				<size>25362.00000000</size>
+				<sensor_population>1</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/0jumx7t0c3ytzr/post/Planet_Uranus.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/0jumx7t0c3ytzr/subscribers_vault_thumbnail/Planet_Uranus.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/0jumx7t0c3ytzr/product_thumb_large/Planet_Uranus.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/0jumx7t0c3ytzr/source/Planet_Uranus.jpg</source>
+					<slug>0jumx7t0c3ytz</slug>
+				</texture>
+				<orbit_period>30799.10000000</orbit_period>
+				<parent_id>2023</parent_id>
+				<show_orbitlines>1</show_orbitlines>
+				<latitude>0.73716400</latitude>
+				<subtype_id>25</subtype_id>
+				<type>PLANET</type>
+				<show_label>1</show_label>
+				<description>This ice giant has an unusual lopsided magnetic field due to a dramatic tilt of its axis that places its north and south poles where most other planets have their equator.</description>
+				<info_url />
+				<distance>20.08330000</distance>
+				<name>Uranus</name>
+				<designation>Sol VII</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>2</sensor_economy>
+				<time_modified>2015-10-09 22:21:10</time_modified>
+				<subtype>
+					<type>PLANET</type>
+					<id>25</id>
+					<name>Ice Giant</name>
+				</subtype>
+				<axial_tilt>97.77000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.NEPTUNE</code>
+				<shader_data>
+					<orbitalMin>1</orbitalMin>
+					<orbitalMax>5</orbitalMax>
+					<orbitalHighlightColor>rgb(128,128,255)</orbitalHighlightColor>
+					<orbitalFactor>1</orbitalFactor>
+					<orbitalColor>rgb(26,86,124)</orbitalColor>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>0.55</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<ring>
+						<radius1>0.6</radius1>
+						<radius2>1</radius2>
+						<borderFading>0.2</borderFading>
+						<color1>#aaa5a1</color1>
+						<color2>#161615</color2>
+						<extraDensity>0.01</extraDensity>
+						<speed>0.75</speed>
+					</ring>
+				</shader_data>
+				<sensor_danger>3</sensor_danger>
+				<affiliation>
+					<color>#48bbd4</color>
+					<membership.id>2281</membership.id>
+					<code>uee</code>
+					<id>1</id>
+					<name>UEE</name>
+				</affiliation>
+				<fairchanceact />
+				<longitude>125.31000000</longitude>
+				<habitable />
+				<id>2031</id>
+				<size>24622.00000000</size>
+				<sensor_population>1</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/94je2ho8w8fber/post/Planet_Neptune.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/94je2ho8w8fber/subscribers_vault_thumbnail/Planet_Neptune.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/94je2ho8w8fber/product_thumb_large/Planet_Neptune.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/94je2ho8w8fber/source/Planet_Neptune.jpg</source>
+					<slug>94je2ho8w8fbe</slug>
+				</texture>
+				<orbit_period>60190.00000000</orbit_period>
+				<parent_id>2023</parent_id>
+				<show_orbitlines>1</show_orbitlines>
+				<latitude>1.02226000</latitude>
+				<subtype_id>25</subtype_id>
+				<type>PLANET</type>
+				<show_label>1</show_label>
+				<description>An ice giant whose differential rotation contributes to it having the strongest winds in the Sol System.</description>
+				<info_url />
+				<distance>30.44130000</distance>
+				<name>Neptune</name>
+				<designation>Sol VIII</designation>
+				<age>0.00000000</age>
+				<appearance>PLANET_BLUE</appearance>
+				<sensor_economy>1</sensor_economy>
+				<time_modified>2015-10-09 22:21:55</time_modified>
+				<subtype>
+					<type>PLANET</type>
+					<id>25</id>
+					<name>Ice Giant</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.PLUTO</code>
+				<shader_data />
+				<sensor_danger>2</sensor_danger>
+				<affiliation>
+					<color>#48bbd4</color>
+					<membership.id>2571</membership.id>
+					<code>uee</code>
+					<id>1</id>
+					<name>UEE</name>
+				</affiliation>
+				<fairchanceact />
+				<longitude>-133.97300000</longitude>
+				<habitable />
+				<id>2032</id>
+				<size>1186.00000000</size>
+				<sensor_population>1</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/pmfkvj1mwmq2zr/post/Planet_Pluto.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/pmfkvj1mwmq2zr/subscribers_vault_thumbnail/Planet_Pluto.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/pmfkvj1mwmq2zr/product_thumb_large/Planet_Pluto.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/pmfkvj1mwmq2zr/source/Planet_Pluto.jpg</source>
+					<slug>pmfkvj1mwmq2z</slug>
+				</texture>
+				<orbit_period>90465.00000000</orbit_period>
+				<parent_id>2023</parent_id>
+				<show_orbitlines>1</show_orbitlines>
+				<latitude>13.37350000</latitude>
+				<subtype_id>21</subtype_id>
+				<type>PLANET</type>
+				<show_label>1</show_label>
+				<description>This dwarf planet was the first Kuiper Belt object to ever be discovered and is primarily made of ice and rock. </description>
+				<info_url />
+				<distance>39.50000000</distance>
+				<name>Pluto</name>
+				<designation>Sol IX</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>1</sensor_economy>
+				<time_modified>2015-10-20 19:16:25</time_modified>
+				<subtype>
+					<type>PLANET</type>
+					<id>21</id>
+					<name>Dwarf Planet</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.LUNA</code>
+				<shader_data>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<orbitalMax>5</orbitalMax>
+					<orbitalFactor>1</orbitalFactor>
+					<radius>0.008</radius>
+					<orbitalMin>1</orbitalMin>
+				</shader_data>
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>137.36200000</longitude>
+				<habitable />
+				<id>2033</id>
+				<size>1.00000000</size>
+				<sensor_population>0</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/9g2xvstat60bir/post/Planet_Moon.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/9g2xvstat60bir/subscribers_vault_thumbnail/Planet_Moon.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/9g2xvstat60bir/product_thumb_large/Planet_Moon.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/9g2xvstat60bir/source/Planet_Moon.jpg</source>
+					<slug>9g2xvstat60bi</slug>
+				</texture>
+				<orbit_period>27.32160000</orbit_period>
+				<parent_id>2026</parent_id>
+				<show_orbitlines />
+				<latitude>3.79789000</latitude>
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>A large natural satellite that is tidally locked with Earth. The first celestial object Humanity ever visited.</description>
+				<info_url />
+				<distance>0.00246642</distance>
+				<name>Luna</name>
+				<designation>Sol 3a</designation>
+				<age>0.00000000</age>
+				<appearance>PLANET_BROWN</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-09 17:25:53</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.IO</code>
+				<shader_data>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<orbitalMax>5</orbitalMax>
+					<orbitalFactor>1</orbitalFactor>
+					<radius>0.005</radius>
+					<orbitalMin>1</orbitalMin>
+				</shader_data>
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>175.44500000</longitude>
+				<habitable />
+				<id>2034</id>
+				<size>1.00000000</size>
+				<sensor_population>0</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/9g2xvstat60bir/post/Planet_Moon.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/9g2xvstat60bir/subscribers_vault_thumbnail/Planet_Moon.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/9g2xvstat60bir/product_thumb_large/Planet_Moon.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/9g2xvstat60bir/source/Planet_Moon.jpg</source>
+					<slug>9g2xvstat60bi</slug>
+				</texture>
+				<orbit_period>1.77000000</orbit_period>
+				<parent_id>2028</parent_id>
+				<show_orbitlines />
+				<latitude>2.20466000</latitude>
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>Thanks to tidal heating, Io experiences extreme geologic activity, making it the driest and most volcanically active object in the Sol System.</description>
+				<info_url />
+				<distance>0.00281889</distance>
+				<name>Io</name>
+				<designation>Sol 5a</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-09 17:14:32</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.EUROPA</code>
+				<shader_data>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>0.99378940082683</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<orbitalMax>5</orbitalMax>
+					<orbitalFactor>1</orbitalFactor>
+					<radius>0.005</radius>
+					<orbitalMin>1</orbitalMin>
+				</shader_data>
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>115.19800000</longitude>
+				<habitable />
+				<id>2035</id>
+				<size>1.00000000</size>
+				<sensor_population>0</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/j52x7qoth74yir/post/Planet_Ice.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/j52x7qoth74yir/subscribers_vault_thumbnail/Planet_Ice.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/j52x7qoth74yir/product_thumb_large/Planet_Ice.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/j52x7qoth74yir/source/Planet_Ice.jpg</source>
+					<slug>j52x7qoth74yi</slug>
+				</texture>
+				<orbit_period>3.55000000</orbit_period>
+				<parent_id>2028</parent_id>
+				<show_orbitlines />
+				<latitude>0.20010700</latitude>
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>Europa's icy surface makes it one of the most reflective moons in the Sol System.</description>
+				<info_url />
+				<distance>0.00448558</distance>
+				<name>Europa</name>
+				<designation>Sol 5b</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-09 17:14:36</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.GANYMEDE</code>
+				<shader_data>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<orbitalMax>5</orbitalMax>
+					<orbitalFactor>1</orbitalFactor>
+					<radius>0.007</radius>
+					<orbitalMin>1</orbitalMin>
+				</shader_data>
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>36.96460000</longitude>
+				<habitable />
+				<id>2036</id>
+				<size>1.00000000</size>
+				<sensor_population>0</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/9g2xvstat60bir/post/Planet_Moon.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/9g2xvstat60bir/subscribers_vault_thumbnail/Planet_Moon.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/9g2xvstat60bir/product_thumb_large/Planet_Moon.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/9g2xvstat60bir/source/Planet_Moon.jpg</source>
+					<slug>9g2xvstat60bi</slug>
+				</texture>
+				<orbit_period>7.15000000</orbit_period>
+				<parent_id>2028</parent_id>
+				<show_orbitlines />
+				<latitude>-0.15980200</latitude>
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>Ganymede is the Sol System’s largest moon and the only one with a magnetosphere. It is bigger than Mercury and only slightly smaller than Mars.</description>
+				<info_url />
+				<distance>0.00715526</distance>
+				<name>Ganymede</name>
+				<designation>Sol 5c</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-09 17:15:11</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.CALLISTO</code>
+				<shader_data>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<orbitalMax>5</orbitalMax>
+					<orbitalFactor>1</orbitalFactor>
+					<radius>0.004</radius>
+					<orbitalMin>1</orbitalMin>
+				</shader_data>
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>-104.10000000</longitude>
+				<habitable />
+				<id>2037</id>
+				<size>1.00000000</size>
+				<sensor_population>0</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/9g2xvstat60bir/post/Planet_Moon.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/9g2xvstat60bir/subscribers_vault_thumbnail/Planet_Moon.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/9g2xvstat60bir/product_thumb_large/Planet_Moon.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/9g2xvstat60bir/source/Planet_Moon.jpg</source>
+					<slug>9g2xvstat60bi</slug>
+				</texture>
+				<orbit_period>16.69000000</orbit_period>
+				<parent_id>2028</parent_id>
+				<show_orbitlines />
+				<latitude>0.04677470</latitude>
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>The tidally locked surface of Callisto is the oldest and most heavily cratered in Sol. </description>
+				<info_url />
+				<distance>0.01258510</distance>
+				<name>Callisto</name>
+				<designation>Sol 5d</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-13 17:19:27</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.BELTS.RINGSOFSATURN</code>
+				<shader_data />
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>0.00000000</longitude>
+				<habitable />
+				<id>2038</id>
+				<size>0.00000000</size>
+				<sensor_population>0</sensor_population>
+				<orbit_period />
+				<parent_id>2029</parent_id>
+				<show_orbitlines>1</show_orbitlines>
+				<latitude>0.00000000</latitude>
+				<subtype_id>51</subtype_id>
+				<type>ASTEROID_BELT</type>
+				<show_label>1</show_label>
+				<description>Planetary Ring System</description>
+				<info_url />
+				<distance>0.00077051</distance>
+				<name />
+				<designation>Rings of Saturn</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-08 03:56:40</time_modified>
+				<subtype>
+					<type>ASTEROID_BELT</type>
+					<id>51</id>
+					<name>Planetary Ring</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.BELTS.JOVIANRINGS</code>
+				<shader_data />
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>0.00000000</longitude>
+				<habitable />
+				<id>2039</id>
+				<size>0.00000000</size>
+				<sensor_population>0</sensor_population>
+				<orbit_period />
+				<parent_id>2028</parent_id>
+				<show_orbitlines>1</show_orbitlines>
+				<latitude>0.00000000</latitude>
+				<subtype_id>51</subtype_id>
+				<type>ASTEROID_BELT</type>
+				<show_label>1</show_label>
+				<description>Planetary Ring System</description>
+				<info_url />
+				<distance>0.00081900</distance>
+				<name />
+				<designation>Jovian Rings</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-08 23:56:37</time_modified>
+				<subtype>
+					<type>ASTEROID_BELT</type>
+					<id>51</id>
+					<name>Planetary Ring</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.BELTS.RINGSOFNEPTUNE</code>
+				<shader_data />
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>0.00000000</longitude>
+				<habitable />
+				<id>2040</id>
+				<size>0.00000000</size>
+				<sensor_population>0</sensor_population>
+				<orbit_period />
+				<parent_id>2031</parent_id>
+				<show_orbitlines>1</show_orbitlines>
+				<latitude>0.00000000</latitude>
+				<subtype_id>51</subtype_id>
+				<type>ASTEROID_BELT</type>
+				<show_label>1</show_label>
+				<description>Planetary Ring System</description>
+				<info_url />
+				<distance>0.00028100</distance>
+				<name />
+				<designation>Rings of Neptune</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-08 03:57:01</time_modified>
+				<subtype>
+					<type>ASTEROID_BELT</type>
+					<id>51</id>
+					<name>Planetary Ring</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.BELTS.RINGSOFURANUS</code>
+				<shader_data />
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>0.00000000</longitude>
+				<habitable />
+				<id>2041</id>
+				<size>0.00000000</size>
+				<sensor_population>0</sensor_population>
+				<orbit_period />
+				<parent_id>2030</parent_id>
+				<show_orbitlines>1</show_orbitlines>
+				<latitude>0.00000000</latitude>
+				<subtype_id>51</subtype_id>
+				<type>ASTEROID_BELT</type>
+				<show_label>1</show_label>
+				<description>Planetary Ring System</description>
+				<info_url />
+				<distance>0.00023400</distance>
+				<name />
+				<designation>Rings of Uranus</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-08 03:57:08</time_modified>
+				<subtype>
+					<type>ASTEROID_BELT</type>
+					<id>51</id>
+					<name>Planetary Ring</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.TITAN</code>
+				<shader_data>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<orbitalMax>5</orbitalMax>
+					<orbitalFactor>1</orbitalFactor>
+					<radius>0.005</radius>
+					<orbitalMin>1</orbitalMin>
+				</shader_data>
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>-133.33600000</longitude>
+				<habitable />
+				<id>2042</id>
+				<size>1.00000000</size>
+				<sensor_population>0</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/3s8vnafjwn09pr/post/Planet_Chthonian.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/3s8vnafjwn09pr/subscribers_vault_thumbnail/Planet_Chthonian.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/3s8vnafjwn09pr/product_thumb_large/Planet_Chthonian.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/3s8vnafjwn09pr/source/Planet_Chthonian.jpg</source>
+					<slug>3s8vnafjwn09p</slug>
+				</texture>
+				<orbit_period>16.94500000</orbit_period>
+				<parent_id>2029</parent_id>
+				<show_orbitlines />
+				<latitude>20.21910000</latitude>
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>Saturn’s largest natural satellite has long been of great interest to scientists. With rivers and lakes of ethane and methane, Titan is the only moon in the Sol System with a dense atmosphere. </description>
+				<info_url />
+				<distance>0.00793247</distance>
+				<name>Titan</name>
+				<designation>Sol 6a</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-09 17:18:28</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.RHEA</code>
+				<shader_data>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<orbitalMax>5</orbitalMax>
+					<orbitalFactor>1</orbitalFactor>
+					<radius>0.004</radius>
+					<orbitalMin>1</orbitalMin>
+				</shader_data>
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>142.73000000</longitude>
+				<habitable />
+				<id>2043</id>
+				<size>1.00000000</size>
+				<sensor_population>0</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/j52x7qoth74yir/post/Planet_Ice.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/j52x7qoth74yir/subscribers_vault_thumbnail/Planet_Ice.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/j52x7qoth74yir/product_thumb_large/Planet_Ice.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/j52x7qoth74yir/source/Planet_Ice.jpg</source>
+					<slug>j52x7qoth74yi</slug>
+				</texture>
+				<orbit_period>4.51821000</orbit_period>
+				<parent_id>2029</parent_id>
+				<show_orbitlines />
+				<latitude>23.62590000</latitude>
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>Made mainly of rock and ice, Rhea is commonly referred to as a “dirty snowball” due to its composition.</description>
+				<info_url />
+				<distance>0.00352350</distance>
+				<name>Rhea</name>
+				<designation>Sol 6b</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-09 17:18:28</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.TETHYS</code>
+				<shader_data>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<orbitalMax>5</orbitalMax>
+					<orbitalFactor>1</orbitalFactor>
+					<radius>0.005</radius>
+					<orbitalMin>1</orbitalMin>
+				</shader_data>
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>152.08400000</longitude>
+				<habitable />
+				<id>2044</id>
+				<size>1.00000000</size>
+				<sensor_population>0</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/j52x7qoth74yir/post/Planet_Ice.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/j52x7qoth74yir/subscribers_vault_thumbnail/Planet_Ice.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/j52x7qoth74yir/product_thumb_large/Planet_Ice.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/j52x7qoth74yir/source/Planet_Ice.jpg</source>
+					<slug>j52x7qoth74yi</slug>
+				</texture>
+				<orbit_period>1.88780000</orbit_period>
+				<parent_id>2029</parent_id>
+				<show_orbitlines />
+				<latitude>27.83160000</latitude>
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>Tethys is predominantly made of water ice, which gives it a density much lower than other celestial objects its size.  </description>
+				<info_url />
+				<distance>0.00196941</distance>
+				<name>Tethys</name>
+				<designation>Sol 6c</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-09 17:18:27</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.DIONE</code>
+				<shader_data>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<orbitalMax>5</orbitalMax>
+					<orbitalFactor>1</orbitalFactor>
+					<radius>0.005</radius>
+					<orbitalMin>1</orbitalMin>
+				</shader_data>
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>-82.85960000</longitude>
+				<habitable />
+				<id>2045</id>
+				<size>1.00000000</size>
+				<sensor_population>0</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/9g2xvstat60bir/post/Planet_Moon.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/9g2xvstat60bir/subscribers_vault_thumbnail/Planet_Moon.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/9g2xvstat60bir/product_thumb_large/Planet_Moon.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/9g2xvstat60bir/source/Planet_Moon.jpg</source>
+					<slug>9g2xvstat60bi</slug>
+				</texture>
+				<orbit_period>2.73692000</orbit_period>
+				<parent_id>2029</parent_id>
+				<show_orbitlines />
+				<latitude>-3.58896000</latitude>
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>Strangely, this tidally locked moon features numerous impact craters on its trailing hemisphere, leading scientist to speculate that heavy bombardment from objects once spun Dione 180 degrees. </description>
+				<info_url />
+				<distance>0.00252274</distance>
+				<name>Dione</name>
+				<designation>Sol 6d</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2016-06-27 22:10:45</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.IAPETUS</code>
+				<shader_data>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<orbitalMax>5</orbitalMax>
+					<orbitalFactor>1</orbitalFactor>
+					<radius>0.004</radius>
+					<orbitalMin>1</orbitalMin>
+				</shader_data>
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>21.50410000</longitude>
+				<habitable />
+				<id>2046</id>
+				<size>1.00000000</size>
+				<sensor_population>0</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/9g2xvstat60bir/post/Planet_Moon.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/9g2xvstat60bir/subscribers_vault_thumbnail/Planet_Moon.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/9g2xvstat60bir/product_thumb_large/Planet_Moon.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/9g2xvstat60bir/source/Planet_Moon.jpg</source>
+					<slug>9g2xvstat60bi</slug>
+				</texture>
+				<orbit_period>79.32150000</orbit_period>
+				<parent_id>2029</parent_id>
+				<show_orbitlines />
+				<latitude>-16.82370000</latitude>
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>Tidally locked to Saturn, Iapetus is unusual because of its “two-tone” coloration. The side facing Saturn is constantly shrouded in shadow while the more distant side is illuminated. </description>
+				<info_url />
+				<distance>0.02380260</distance>
+				<name>Iapetus</name>
+				<designation>Sol 6e</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-09 17:18:41</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.MIRANDA</code>
+				<shader_data>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<orbitalMax>5</orbitalMax>
+					<orbitalFactor>1</orbitalFactor>
+					<radius>0.003</radius>
+					<orbitalMin>1</orbitalMin>
+				</shader_data>
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>-87.23100000</longitude>
+				<habitable />
+				<id>2047</id>
+				<size>0.30000000</size>
+				<sensor_population>0</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/9g2xvstat60bir/post/Planet_Moon.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/9g2xvstat60bir/subscribers_vault_thumbnail/Planet_Moon.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/9g2xvstat60bir/product_thumb_large/Planet_Moon.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/9g2xvstat60bir/source/Planet_Moon.jpg</source>
+					<slug>9g2xvstat60bi</slug>
+				</texture>
+				<orbit_period>1.41348000</orbit_period>
+				<parent_id>2030</parent_id>
+				<show_orbitlines />
+				<latitude>109.42200000</latitude>
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>Miranda is one of the smallest objects in the Sol System known to be in hydrostatic equilibrium. Its extreme and varied topography includes the Verona Rupes, which features the tallest cliff in the system. </description>
+				<info_url />
+				<distance>0.00086492</distance>
+				<name>Miranda</name>
+				<designation>Sol 7a</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-10 00:35:27</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.ARIAL</code>
+				<shader_data />
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>79.39630000</longitude>
+				<habitable />
+				<id>2048</id>
+				<size>0.60000000</size>
+				<sensor_population>0</sensor_population>
+				<orbit_period>2.52000000</orbit_period>
+				<parent_id>2030</parent_id>
+				<show_orbitlines />
+				<latitude>-12.89247000</latitude>
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>The surface of this moon is crisscrossed by an extensive network of scarps, canyons, and ridges. Scientists speculate some of these canyons were carved out by liquid ammonia, methane, or carbon monoxide.  </description>
+				<info_url />
+				<distance>0.00127609</distance>
+				<name>Ariel</name>
+				<designation>Sol 7b</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-10 05:30:39</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.UMBRIEL</code>
+				<shader_data>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<orbitalMax>5</orbitalMax>
+					<orbitalFactor>1</orbitalFactor>
+					<radius>0.004</radius>
+					<orbitalMin>1</orbitalMin>
+				</shader_data>
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>-77.15400000</longitude>
+				<habitable />
+				<id>2049</id>
+				<size>0.65000000</size>
+				<sensor_population>0</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/jnd5qqer9z13gr/post/Planet_Rocky.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/jnd5qqer9z13gr/subscribers_vault_thumbnail/Planet_Rocky.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/jnd5qqer9z13gr/product_thumb_large/Planet_Rocky.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/jnd5qqer9z13gr/source/Planet_Rocky.jpg</source>
+					<slug>jnd5qqer9z13g</slug>
+				</texture>
+				<orbit_period>4.14400000</orbit_period>
+				<parent_id>2030</parent_id>
+				<show_orbitlines />
+				<latitude>-14.56740000</latitude>
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>This moon’s name has its roots in the Latin word “umbra”, which means shadow. An appropriate reference considering Umbriel is the darkest of all Uranian moons. </description>
+				<info_url />
+				<distance>0.00177810</distance>
+				<name>Umbriel</name>
+				<designation>Sol 7c</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-10 00:33:53</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.TITANIA</code>
+				<shader_data>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<orbitalMax>5</orbitalMax>
+					<orbitalFactor>1</orbitalFactor>
+					<radius>0.005</radius>
+					<orbitalMin>1</orbitalMin>
+				</shader_data>
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>-98.67700000</longitude>
+				<habitable />
+				<id>2050</id>
+				<size>0.80000000</size>
+				<sensor_population>0</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/9g2xvstat60bir/post/Planet_Moon.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/9g2xvstat60bir/subscribers_vault_thumbnail/Planet_Moon.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/9g2xvstat60bir/product_thumb_large/Planet_Moon.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/9g2xvstat60bir/source/Planet_Moon.jpg</source>
+					<slug>9g2xvstat60bi</slug>
+				</texture>
+				<orbit_period>8.70623000</orbit_period>
+				<parent_id>2030</parent_id>
+				<show_orbitlines />
+				<latitude>31.37106000</latitude>
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>Titania is Uranus’ largest moon. Enormous canyons and scarps cut through its surface. Scientists believe they were created after an interior expansion occurred during the moon’s evolution.</description>
+				<info_url />
+				<distance>0.00291388</distance>
+				<name>Titania</name>
+				<designation>Sol 7d</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-10 05:27:13</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.PLANETS.OBERON</code>
+				<shader_data>
+					<highlight>
+						<atmosphere3>0.5</atmosphere3>
+						<atmosphere2>0.5</atmosphere2>
+						<atmosphere1>0.5</atmosphere1>
+						<scaleMax>1</scaleMax>
+						<color1>rgb(255,255,255)</color1>
+						<color2>rgb(255,255,255)</color2>
+						<alpha>1</alpha>
+						<scaleMin>1</scaleMin>
+						<scalePeriod>1</scalePeriod>
+					</highlight>
+					<orbitalMax>5</orbitalMax>
+					<orbitalFactor>1</orbitalFactor>
+					<radius>0.005</radius>
+					<orbitalMin>1</orbitalMin>
+				</shader_data>
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>-2.12600000</longitude>
+				<habitable />
+				<id>2051</id>
+				<size>0.75000000</size>
+				<sensor_population>0</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/dgaoam8owcym1r/post/Planet_Lava.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/dgaoam8owcym1r/subscribers_vault_thumbnail/Planet_Lava.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/dgaoam8owcym1r/product_thumb_large/Planet_Lava.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/dgaoam8owcym1r/source/Planet_Lava.jpg</source>
+					<slug>dgaoam8owcym1</slug>
+				</texture>
+				<orbit_period>13.46320000</orbit_period>
+				<parent_id>2030</parent_id>
+				<show_orbitlines />
+				<latitude>-84.39090000</latitude>
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>Uranus’ second largest moon was named after a mythical faery king from a famous 16th century play. Its surface is covered in impact craters and appears red in color due to space weathering.</description>
+				<info_url />
+				<distance>0.00310059</distance>
+				<name>Oberon</name>
+				<designation>Sol 7e</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2015-10-10 00:45:09</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.BELTS.MAINBELT</code>
+				<shader_data />
+				<sensor_danger>2</sensor_danger>
+				<fairchanceact />
+				<longitude>0.00000000</longitude>
+				<habitable />
+				<id>2052</id>
+				<size>0.00000000</size>
+				<sensor_population>1</sensor_population>
+				<orbit_period />
+				<parent_id>2023</parent_id>
+				<show_orbitlines />
+				<latitude>0.00000000</latitude>
+				<subtype_id>50</subtype_id>
+				<type>ASTEROID_BELT</type>
+				<show_label>1</show_label>
+				<description>Over half the belt’s entire mass is concentrated in four large asteroids. </description>
+				<info_url />
+				<distance>2.70000000</distance>
+				<name>Herschel Belt</name>
+				<designation>Sol Belt Alpha</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>3</sensor_economy>
+				<time_modified>2015-10-08 14:18:08</time_modified>
+				<subtype>
+					<type>ASTEROID_BELT</type>
+					<id>50</id>
+					<name>System Belt</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.BELTS.KEUPERBELT</code>
+				<shader_data>
+					<orbitalHighlightColor>rgb(128,128,255)</orbitalHighlightColor>
+					<orbitalMax>5</orbitalMax>
+					<orbitalMin>1</orbitalMin>
+					<orbitalFactor>1</orbitalFactor>
+					<orbitalColor>rgb(26,86,124)</orbitalColor>
+					<fullturn>1</fullturn>
+					<radius>0.4</radius>
+				</shader_data>
+				<sensor_danger>2</sensor_danger>
+				<fairchanceact />
+				<longitude>0.00000000</longitude>
+				<habitable />
+				<id>2053</id>
+				<size>99999999.99999999</size>
+				<sensor_population>1</sensor_population>
+				<orbit_period />
+				<parent_id>2023</parent_id>
+				<show_orbitlines />
+				<latitude>0.00000000</latitude>
+				<subtype_id>50</subtype_id>
+				<type>ASTEROID_BELT</type>
+				<show_label>1</show_label>
+				<description>The Kuiper Belt consists mainly of small bodies that are believed to be remnants from Sol's formation.</description>
+				<info_url />
+				<distance>45.00000000</distance>
+				<name>Kuiper Belt</name>
+				<designation>Sol Belt Beta</designation>
+				<age>0.00000000</age>
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>3</sensor_economy>
+				<time_modified>2015-10-20 19:18:31</time_modified>
+				<subtype>
+					<type>ASTEROID_BELT</type>
+					<id>50</id>
+					<name>System Belt</name>
+				</subtype>
+				<axial_tilt>0.00000000</axial_tilt>
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.STATION.TDDKESNER</code>
+				<shader_data />
+				<sensor_danger>3</sensor_danger>
+				<affiliation>
+					<color>#48bbd4</color>
+					<membership.id>2266</membership.id>
+					<code>uee</code>
+					<id>1</id>
+					<name>UEE</name>
+				</affiliation>
+				<fairchanceact />
+				<longitude>86.21810000</longitude>
+				<habitable>1</habitable>
+				<id>2610</id>
+				<size />
+				<sensor_population>3</sensor_population>
+				<orbit_period />
+				<parent_id>2023</parent_id>
+				<show_orbitlines>1</show_orbitlines>
+				<latitude>-4.19421000</latitude>
+				<subtype_id>44</subtype_id>
+				<type>MANMADE</type>
+				<show_label>1</show_label>
+				<description>
+					A major shipping hub where most cargo moving to Earth is first processed to help alleviate congestion on the Empire’s capital world.
+				</description>
+				<info_url />
+				<distance>51.00000000</distance>
+				<name />
+				<designation>TDD Kesner</designation>
+				<age />
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>8</sensor_economy>
+				<time_modified>2015-10-09 02:01:43</time_modified>
+				<subtype>
+					<type>MANMADE</type>
+					<id>44</id>
+					<name>Space Station</name>
+				</subtype>
+				<axial_tilt />
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.STATION.IMSBOLLIVER</code>
+				<shader_data />
+				<sensor_danger>5</sensor_danger>
+				<fairchanceact />
+				<longitude>12.65498000</longitude>
+				<habitable>1</habitable>
+				<id>2612</id>
+				<size />
+				<sensor_population>1</sensor_population>
+				<orbit_period />
+				<parent_id>2036</parent_id>
+				<show_orbitlines>1</show_orbitlines>
+				<latitude />
+				<subtype_id>44</subtype_id>
+				<type>MANMADE</type>
+				<show_label>1</show_label>
+				<description>Though it is no longer in active service since the Marine forces stationed here were reassigned to Mars, the base remains strictly off limits. </description>
+				<info_url />
+				<distance>0.00030100</distance>
+				<name />
+				<designation>IMS Bolliver</designation>
+				<age />
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>1</sensor_economy>
+				<time_modified>2015-10-09 17:16:16</time_modified>
+				<subtype>
+					<type>MANMADE</type>
+					<id>44</id>
+					<name>Space Station</name>
+				</subtype>
+				<axial_tilt />
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.STATION.INSDUNLEAVY</code>
+				<shader_data />
+				<sensor_danger>1</sensor_danger>
+				<affiliation>
+					<color>#48bbd4</color>
+					<membership.id>2265</membership.id>
+					<code>uee</code>
+					<id>1</id>
+					<name>UEE</name>
+				</affiliation>
+				<fairchanceact />
+				<longitude>-129.96200000</longitude>
+				<habitable>1</habitable>
+				<id>2613</id>
+				<size />
+				<sensor_population>4</sensor_population>
+				<orbit_period />
+				<parent_id>2023</parent_id>
+				<show_orbitlines>1</show_orbitlines>
+				<latitude>25.28630000</latitude>
+				<subtype_id>44</subtype_id>
+				<type>MANMADE</type>
+				<show_label>1</show_label>
+				<description>This orbital Naval base acts as the main operational center for the main Sol fleet.</description>
+				<info_url />
+				<distance>16.30000000</distance>
+				<name />
+				<designation>INS Dunleavy</designation>
+				<age />
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>5</sensor_economy>
+				<time_modified>2015-10-09 02:00:29</time_modified>
+				<subtype>
+					<type>MANMADE</type>
+					<id>44</id>
+					<name>Space Station</name>
+				</subtype>
+				<axial_tilt />
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.MOONS.PHOBOS</code>
+				<shader_data />
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude>156.00000000</longitude>
+				<habitable />
+				<id>2757</id>
+				<size>0.11000000</size>
+				<sensor_population>0</sensor_population>
+				<orbit_period />
+				<parent_id>2027</parent_id>
+				<show_orbitlines />
+				<latitude>34.00000000</latitude>
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>Only 6,000 kilometers away, Phobos orbits Mars so fast that it appears to rise in the west and set in the east twice every Martian day. </description>
+				<info_url />
+				<distance>0.00062300</distance>
+				<name>Phobos</name>
+				<designation>Sol 4a</designation>
+				<age />
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2016-06-30 00:47:09</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt />
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.MOONS.DEIMOS</code>
+				<shader_data />
+				<sensor_danger>0</sensor_danger>
+				<fairchanceact />
+				<longitude />
+				<habitable />
+				<id>2758</id>
+				<size>0.06200000</size>
+				<sensor_population>0</sensor_population>
+				<orbit_period />
+				<parent_id>2027</parent_id>
+				<show_orbitlines />
+				<latitude />
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>With a radius of only 6.2 kilometers, Deimos' size and lumpy shape bear more of a resemblance to an asteroid than a moon. </description>
+				<info_url />
+				<distance>0.00082500</distance>
+				<name>Deimos</name>
+				<designation>Sol 4b</designation>
+				<age />
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>0</sensor_economy>
+				<time_modified>2016-06-30 00:47:24</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt />
+			</celestial_objects>
+			<celestial_objects>
+				<code>SOL.MOONS.CHARON</code>
+				<shader_data />
+				<sensor_danger>2</sensor_danger>
+				<fairchanceact />
+				<longitude />
+				<habitable />
+				<id>2774</id>
+				<size>1.60400000</size>
+				<sensor_population>1</sensor_population>
+				<texture>
+					<images>
+						<post>https://robertsspaceindustries.com/media/9g2xvstat60bir/post/Planet_Moon.jpg</post>
+						<subscribers_vault_thumbnail>https://robertsspaceindustries.com/media/9g2xvstat60bir/subscribers_vault_thumbnail/Planet_Moon.jpg</subscribers_vault_thumbnail>
+						<product_thumb_large>https://robertsspaceindustries.com/media/9g2xvstat60bir/product_thumb_large/Planet_Moon.jpg</product_thumb_large>
+					</images>
+					<source>https://robertsspaceindustries.com/media/9g2xvstat60bir/source/Planet_Moon.jpg</source>
+					<slug>9g2xvstat60bi</slug>
+				</texture>
+				<orbit_period />
+				<parent_id>2032</parent_id>
+				<show_orbitlines />
+				<latitude />
+				<subtype_id>52</subtype_id>
+				<type>SATELLITE</type>
+				<show_label />
+				<description>The gravitational influence of Charon on Pluto is such that the pair has been classified and unclassified as a binary dwarf planet multiple times since its discovery in 1978. </description>
+				<info_url />
+				<distance>0.00013082</distance>
+				<name>Charon</name>
+				<designation>Sol 9a</designation>
+				<age />
+				<appearance>DEFAULT</appearance>
+				<sensor_economy>1</sensor_economy>
+				<time_modified>2016-06-27 17:50:31</time_modified>
+				<subtype>
+					<type>SATELLITE</type>
+					<id>52</id>
+					<name>Planetary Moon</name>
+				</subtype>
+				<axial_tilt />
+			</celestial_objects>
+			<time_modified>2015-10-10 14:09:45</time_modified>
+			<shader_data>
+				<lightColor>#ffffff</lightColor>
+				<starfield>
+					<count>2000</count>
+					<sizeMax>1</sizeMax>
+					<color1>rgb(128,128,128)</color1>
+					<color2>rgb(100,100,100)</color2>
+					<radius>95</radius>
+					<sizeMin>1</sizeMin>
+				</starfield>
+				<planetsSize>
+					<max>0.03</max>
+					<kFactor>1</kFactor>
+					<min>0.03</min>
+				</planetsSize>
+			</shader_data>
+			<affiliation>
+				<color>#48bbd4</color>
+				<membership.id>467</membership.id>
+				<code>uee</code>
+				<id>1</id>
+				<name>UEE</name>
+			</affiliation>
+			<aggregated_size>51.00000000</aggregated_size>
+			<habitable_zone_inner>0.90000000</habitable_zone_inner>
+			<position_z>0.00000000</position_z>
+			<frost_line>5.00000000</frost_line>
+			<position_x>0.00000000</position_x>
+			<position_y>0.00000000</position_y>
+			<habitable_zone_outer>3.00000000</habitable_zone_outer>
+			<type>SINGLE_STAR</type>
+			<id>355</id>
+			<aggregated_danger>0</aggregated_danger>
+			<description>The birthplace of Humanity and capital of the Empire. The Imperator, Senate and many other major UEE institutions are based on Earth (Sol III). Among the many historical milestones that the system can lay claim to is the first ever terraformed planet, Mars (Sol IV).</description>
+		</resultset>
+		<totalrows>1</totalrows>
+		<startrow>0</startrow>
+		<rowcount>1</rowcount>
+		<offset>0</offset>
+		<page>1</page>
+	</data>
+	<success>1</success>
+</system>

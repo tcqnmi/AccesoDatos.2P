@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entrenador nombre="green">
+	<pokemon>
+		<nombre>pikachu</nombre>
+		<objeto>choco</objeto>
+	</pokemon>
+	<pokemon>
+		<nombre>jiglypuff</nombre>
+		<objeto>pokeflauta</objeto>
+	</pokemon>
+	<pokemon>
+		<nombre>charmander</nombre>
+		<objeto>pocion</objeto>
+	</pokemon>
+</entrenador>
