@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<root>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
    <games>
       <element>
          <BannerUrl>https://cdn.shopify.com/s/files/1/0942/1228/products/HRlJRkW_0a43b4f7-1dc1-4edf-876c-64b8fc5f1046.jpeg?v=1438739135</BannerUrl>
@@ -41,7 +40,7 @@
             <element>
                <Name>Luigi</Name>
             </element>
-         </characters>
+         <element><name>mario 2</name></element></characters>
          <name>Super Smash Bros. 64</name>
          <stages>
             <element>

@@ -1,4 +1,4 @@
-
+                                                                                                                                                                                                        
 package ficherosxstream2.serializacion;
 
 import com.thoughtworks.xstream.XStream;

@@ -1,0 +1,8 @@
+<Personas>
+  <Persona>
+    <nombre>juan</nombre>
+    <apellido>lopez</apellido>
+    <fecha>65</fecha>
+    <dni>20-05</dni>
+  </Persona>
+</Personas>
